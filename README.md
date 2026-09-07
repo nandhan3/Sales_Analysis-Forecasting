@@ -1,4 +1,5 @@
 📊 Sales Analysis & Forecasting Using SQL
+
 📌 Project Overview
 
 A Retail Sales Data Analysis project using MySQL to analyze sales performance, identify trends, and generate business insights.
